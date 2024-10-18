@@ -29,9 +29,9 @@
 	{
 		"id": "kolnovel",
 		"name": "Kol Novel",
-		"site": "https://kolnovel.club/",
+		"site": "https://kolnovel.com/page/2/ ",
 		"lang": "‎العربية",
-		"version": "1.1.1",
+		"version": "1.1.2",
 		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/.js/plugins/arabic/KolNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/icons/multisrc/lightnovelwp/kolnovel/icon.png"
 	},
@@ -63,13 +63,13 @@
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/icons/multisrc/madara/olaoe/icon.png"
 	},
 	{
-		"id": "riwyat",
-		"name": "Riwyat",
-		"site": "https://riwyat.org/",
+		"id": "cenele",
+		"name": "cenele",
+		"site": "https://cenele.com",
 		"lang": "‎العربية",
-		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/.js/plugins/arabic/Riwyat[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/icons/multisrc/madara/riwyat/icon.png"
+		"version": "1.0.4",
+		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/.js/plugins/arabic/cenele[madara].js",
+		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v2.2.0/icons/multisrc/madara/cenele/icon.png"
 	},
 	{
 		"id": "69shu",
